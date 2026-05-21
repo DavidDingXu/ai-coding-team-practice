@@ -149,4 +149,4 @@ flowchart LR
 ## 联系我
 关注公众号，获取技术分享与更新：
 
-![微信公众号](/img/wechat_official_qrcode.png)
+<img src="./img/wechat_official_qrcode.png" alt="微信公众号" width="180" />
